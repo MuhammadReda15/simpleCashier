@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SecApps</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="create_a_new_account">Create new account</string>
+    <string name="penjualan">Penjualan</string>
+    <string name="muhammad_reda">muhammad reda</string>
+    <string name="kode_barang">kode barang</string>
+    <string name="jumlah_barang">jumlah barang</string>
+    <string name="hitung">hitung</string>
+    <string name="namabarang">namabarang</string>
+    <string name="harga_barang">harga barang</string>
+    <string name="total_harga">total harga</string>
+    <string name="discount">Discount</string>
+    <string name="jumlah_bayar">jumlah bayar</string>
+    <string name="name">Name</string>
+    <string name="email_id">Email ID</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_mobile">Enter Mobile</string>
+    <string name="male">male</string>
+    <string name="female">Female</string>
+    <string name="register">Register</string>
+    <string name="contacts">Contacts</string>
+    <string name="todo">TODO</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APPs/SecApps/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/drawable/boarder.xml" value="0.1" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/drawable/button.xml" value="0.2595" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/drawable/style.xml" value="0.1" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/drawable/tepian.xml" value="0.1" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/drawable/ujung.xml" value="0.1595" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/coba.xml" value="0.10833333333333334" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/costum_menu.xml" value="0.1" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/days21.xml" value="0.264" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/days22.xml" value="0.264" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/layoutrelatif.xml" value="0.264" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/linearlayout1.xml" value="0.24010416666666667" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/linearlayout2.xml" value="0.264" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/nindi.xml" value="0.1" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/layout/penjualan.xml" value="0.264" />
+        <entry key="..\:/APPs/SecApps/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
